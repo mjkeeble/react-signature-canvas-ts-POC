@@ -1,0 +1,12 @@
+{
+  "name": "react-signature-canvas-ts-POC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mjkeeble/react-signature-canvas-ts-POC.git",
+  "author": "Mark Keeble <mjkeeble@yahoo.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react-signature-canvas": "^1.0.2",
+    "react-signature-canvas": "^1.0.3"
+  }
+}
